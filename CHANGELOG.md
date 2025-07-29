@@ -2,6 +2,106 @@
 
 # Changelog
 
+### [Version 1.105.6](https://github.com/lobehub/lobe-chat/compare/v1.105.5...v1.105.6)
+
+<sup>Released on **2025-07-29**</sup>
+
+#### 💄 Styles
+
+- **misc**: Open new topic by tap Just Chat again.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Open new topic by tap Just Chat again, closes [#8426](https://github.com/lobehub/lobe-chat/issues/8426) ([018ca75](https://github.com/lobehub/lobe-chat/commit/018ca75))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.105.5](https://github.com/lobehub/lobe-chat/compare/v1.105.4...v1.105.5)
+
+<sup>Released on **2025-07-29**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Reorder AppTheme and Locale to fix modal i18n.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Reorder AppTheme and Locale to fix modal i18n, closes [#8600](https://github.com/lobehub/lobe-chat/issues/8600) ([3264cf2](https://github.com/lobehub/lobe-chat/commit/3264cf2))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.105.4](https://github.com/lobehub/lobe-chat/compare/v1.105.3...v1.105.4)
+
+<sup>Released on **2025-07-29**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Revert jose to ^5 to fix auth issue on desktop.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Revert jose to ^5 to fix auth issue on desktop, closes [#8603](https://github.com/lobehub/lobe-chat/issues/8603) ([57118b0](https://github.com/lobehub/lobe-chat/commit/57118b0))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.105.3](https://github.com/lobehub/lobe-chat/compare/v1.105.2...v1.105.3)
+
+<sup>Released on **2025-07-29**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix subscription plan tag display.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix subscription plan tag display, closes [#8599](https://github.com/lobehub/lobe-chat/issues/8599) ([2a3754a](https://github.com/lobehub/lobe-chat/commit/2a3754a))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.105.2](https://github.com/lobehub/lobe-chat/compare/v1.105.1...v1.105.2)
 
 <sup>Released on **2025-07-29**</sup>
