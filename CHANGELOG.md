@@ -2,6 +2,206 @@
 
 # Changelog
 
+### [Version 1.118.1](https://github.com/lobehub/lobe-chat/compare/v1.118.0...v1.118.1)
+
+<sup>Released on **2025-08-29**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Add Content-Security-Policy env.
+
+#### 💄 Styles
+
+- **misc**: Support Gemini URL context tool.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Add Content-Security-Policy env, closes [#8752](https://github.com/lobehub/lobe-chat/issues/8752) ([9250540](https://github.com/lobehub/lobe-chat/commit/9250540))
+
+#### Styles
+
+- **misc**: Support Gemini URL context tool, closes [#8731](https://github.com/lobehub/lobe-chat/issues/8731) ([5d4ed11](https://github.com/lobehub/lobe-chat/commit/5d4ed11))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.118.0](https://github.com/lobehub/lobe-chat/compare/v1.117.1...v1.118.0)
+
+<sup>Released on **2025-08-29**</sup>
+
+#### ✨ Features
+
+- **misc**: Add new provider AkashChat.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add new provider AkashChat, closes [#8923](https://github.com/lobehub/lobe-chat/issues/8923) ([2f3bf0f](https://github.com/lobehub/lobe-chat/commit/2f3bf0f))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.117.1](https://github.com/lobehub/lobe-chat/compare/v1.117.0...v1.117.1)
+
+<sup>Released on **2025-08-29**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Move chat item into chat.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Move chat item into chat, closes [#8970](https://github.com/lobehub/lobe-chat/issues/8970) ([e09817e](https://github.com/lobehub/lobe-chat/commit/e09817e))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.117.0](https://github.com/lobehub/lobe-chat/compare/v1.116.4...v1.117.0)
+
+<sup>Released on **2025-08-29**</sup>
+
+#### ✨ Features
+
+- **misc**: Ai image support Gemini 2.5 Flash Image, Support Gemini 2.5 Flash Image Preview in OpenRouter.
+
+#### 💄 Styles
+
+- **misc**: Update i18n.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Ai image support Gemini 2.5 Flash Image, closes [#8966](https://github.com/lobehub/lobe-chat/issues/8966) ([64b969e](https://github.com/lobehub/lobe-chat/commit/64b969e))
+- **misc**: Support Gemini 2.5 Flash Image Preview in OpenRouter, closes [#8944](https://github.com/lobehub/lobe-chat/issues/8944) ([23dcf4c](https://github.com/lobehub/lobe-chat/commit/23dcf4c))
+
+#### Styles
+
+- **misc**: Update i18n, closes [#8975](https://github.com/lobehub/lobe-chat/issues/8975) ([6872798](https://github.com/lobehub/lobe-chat/commit/6872798))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.117.0](https://github.com/lobehub/lobe-chat/compare/v1.116.4...v1.117.0)
+
+<sup>Released on **2025-08-29**</sup>
+
+#### ✨ Features
+
+- **misc**: Ai image support Gemini 2.5 Flash Image.
+
+#### 💄 Styles
+
+- **misc**: Update i18n.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Ai image support Gemini 2.5 Flash Image, closes [#8966](https://github.com/lobehub/lobe-chat/issues/8966) ([64b969e](https://github.com/lobehub/lobe-chat/commit/64b969e))
+
+#### Styles
+
+- **misc**: Update i18n, closes [#8975](https://github.com/lobehub/lobe-chat/issues/8975) ([6872798](https://github.com/lobehub/lobe-chat/commit/6872798))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.117.0](https://github.com/lobehub/lobe-chat/compare/v1.116.4...v1.117.0)
+
+<sup>Released on **2025-08-28**</sup>
+
+#### ✨ Features
+
+- **misc**: Ai image support Gemini 2.5 Flash Image.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Ai image support Gemini 2.5 Flash Image, closes [#8966](https://github.com/lobehub/lobe-chat/issues/8966) ([64b969e](https://github.com/lobehub/lobe-chat/commit/64b969e))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.116.4](https://github.com/lobehub/lobe-chat/compare/v1.116.3...v1.116.4)
+
+<sup>Released on **2025-08-28**</sup>
+
+#### 💄 Styles
+
+- **misc**: Support html preview.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Support html preview, closes [#8969](https://github.com/lobehub/lobe-chat/issues/8969) ([82abf6d](https://github.com/lobehub/lobe-chat/commit/82abf6d))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.116.3](https://github.com/lobehub/lobe-chat/compare/v1.116.2...v1.116.3)
 
 <sup>Released on **2025-08-28**</sup>
