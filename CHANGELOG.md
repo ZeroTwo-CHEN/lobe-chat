@@ -2,6 +2,123 @@
 
 # Changelog
 
+### [Version 1.134.6](https://github.com/lobehub/lobe-chat/compare/v1.134.5...v1.134.6)
+
+<sup>Released on **2025-10-05**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.134.5](https://github.com/lobehub/lobe-chat/compare/v1.134.4...v1.134.5)
+
+<sup>Released on **2025-10-05**</sup>
+
+#### 🐛 Bug Fixes
+
+- **database**: Prevent empty array insertion in aiModel batch operations.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **database**: Prevent empty array insertion in aiModel batch operations, closes [#9491](https://github.com/lobehub/lobe-chat/issues/9491) [#9429](https://github.com/lobehub/lobe-chat/issues/9429) [#9429](https://github.com/lobehub/lobe-chat/issues/9429) ([eb50c8b](https://github.com/lobehub/lobe-chat/commit/eb50c8b))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.134.4](https://github.com/lobehub/lobe-chat/compare/v1.134.3...v1.134.4)
+
+<sup>Released on **2025-10-05**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add promptfoo to improve prompts quality.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add promptfoo to improve prompts quality, closes [#9568](https://github.com/lobehub/lobe-chat/issues/9568) ([33874c2](https://github.com/lobehub/lobe-chat/commit/33874c2))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.134.3](https://github.com/lobehub/lobe-chat/compare/v1.134.2...v1.134.3)
+
+<sup>Released on **2025-10-05**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Type not preserved when model is sorted.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Type not preserved when model is sorted, closes [#9561](https://github.com/lobehub/lobe-chat/issues/9561) ([5fe2518](https://github.com/lobehub/lobe-chat/commit/5fe2518))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.134.2](https://github.com/lobehub/lobe-chat/compare/v1.134.1...v1.134.2)
+
+<sup>Released on **2025-10-05**</sup>
+
+#### 💄 Styles
+
+- **misc**: Allow switching model `type`.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Allow switching model `type`, closes [#9529](https://github.com/lobehub/lobe-chat/issues/9529) ([9b62685](https://github.com/lobehub/lobe-chat/commit/9b62685))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.134.1](https://github.com/lobehub/lobe-chat/compare/v1.134.0...v1.134.1)
 
 <sup>Released on **2025-10-05**</sup>
